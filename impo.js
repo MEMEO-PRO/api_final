@@ -1,7 +1,7 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
 
 // Connection URI and database configuration
-const uri = "mongodb+srv://ipdguys:Arh4mjJjJRKZmAeR@cluster0.ewytcbs.mongodb.net/?retryWrites=true&w=majority";
+const uri = "";
 const dbName = 'AISPECS'; // Replace with your actual database name
 const collectionName = 'Tasks'; // Replace with your actual collection name
 
